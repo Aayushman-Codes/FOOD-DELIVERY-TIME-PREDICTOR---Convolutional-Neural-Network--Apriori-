@@ -19,6 +19,6 @@ This model was built on Kaggle Notebook since the code might not work on Jupyter
 
 Type of Model: Convolutional Neural Network (Apriori Algorithm)
 
-Objective: Predict estimated food delivery time based on various features like distance, restaurant rating, delivery partner experience, etc.
+Objective: The goal is to understand relationship between food delivery time and various factors affecting it like customer location, restaurant location, weather, traffic conditions, etc. This dats will be used for further comparision using the Apriori Algorithm. This dataset will be used to explore CNN and evaluation/validation techniques.
 
 Tech Stack: Python, Pandas, Scikit-Learn, Matplotlib, Seaborn
